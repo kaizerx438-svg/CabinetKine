@@ -26,7 +26,7 @@ export default function Header() {
                   <Link href="/cabinet">Le cabinet</Link>
                 </li>
                 <li className="text-[#2D3436] hover:text-[#7C9885] transition-colors">
-                  <Link href="/contact">Contact</Link>
+                  <Link href="/#contact">Contact</Link>
                 </li>
               </ul>
             </div>

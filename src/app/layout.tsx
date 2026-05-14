@@ -11,7 +11,7 @@ export default function DashboardLayout({
     <html lang="fr">
       <body>
         <Header />
-        <main>{children}</main>
+        <main className="pt-25">{children}</main>
         <Footer />
       </body>
     </html>
